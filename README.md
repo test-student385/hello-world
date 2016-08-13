@@ -1,2 +1,3 @@
 # hello-world
-my first github
+my first github project
+let us see how github does version control
